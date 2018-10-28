@@ -10,5 +10,5 @@ cuDNN 7102
 - Run training process: 
 ```
 Dataset : MRBrainS18(train 6 x 48, test 1 x 48) 
-python train_one.py 
+python train.py 
 ```
